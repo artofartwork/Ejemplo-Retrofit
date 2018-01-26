@@ -23,6 +23,7 @@ public class MainAdapter {
     public MainAdapter(Context context, View view) {
         this.list = new ArrayList<>();
 
+
         this.context = context;
         this.view = view;
     }
