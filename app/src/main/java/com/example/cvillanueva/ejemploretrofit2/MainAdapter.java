@@ -22,8 +22,7 @@ public class MainAdapter {
 
     public MainAdapter(Context context, View view) {
         this.list = new ArrayList<>();
-
-
+        // Probando el Commit & Push de VCS de Android
         this.context = context;
         this.view = view;
     }
